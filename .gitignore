@@ -1,0 +1,9 @@
+# virtualenv
+venv
+
+# python cache
+.pytest_cache
+__pycache__
+
+# Jetbrains
+.idea
